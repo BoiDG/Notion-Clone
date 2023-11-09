@@ -24,6 +24,15 @@ A notion clone Full stack web app hosted on vercel with next js for the frontend
 - Cover image of each document 🖼️
 - Recover deleted files 🔄📄
 
+## Technology used
+- Convex: Convex is a Backend Application Platform.
+- Clerk: Clerk is a cloud-based authentication service that aims to simplify the integration of secure authentication in web applications.
+- Edgestore: Cloud-based Object storage system
+- Next.js: A React framework for building web applications. It is used for both the frontend and the backend of the application.
+- Tailwind CSS: A utility-first CSS framework for rapidly building custom designs. It is used for styling the application.
+- TypeScript:  A statically typed superset of JavaScript. It is used for writing the code.
+- Mongoose: An Object Data Modeling (ODM) library for MongoDB and Node.js. It is used for defining the product schema and interacting with the MongoDB database.
+
 
 ## Acknowledgements
 
